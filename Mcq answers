@@ -1,0 +1,15 @@
+MCQ Questions: (Answers)
+1. Initialization of an Array in C language:
+Sol: int arr[10]; //Where the array stores 10 elements of integer datatypes
+
+2. Data Structure used to implement queues:
+Sol: Data Structures include: Linked Lists, Arrays, etc.
+
+3. Types of Graphs that can have cycles?
+Sol: Directed Graph that forms a cycle
+
+4. Operation that removes an element from the start of a queue?
+Sol: DeQueue
+
+5. Data Structure that allows the fast access of elements?
+Sol: Linked Lists access elements faster
